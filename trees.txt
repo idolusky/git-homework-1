@@ -3,3 +3,4 @@ pine
 mango
 avocado
 papaya
+lychee
