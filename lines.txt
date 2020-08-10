@@ -1,2 +1,8 @@
 linessss
 more lines
+<<<<<<< HEAD
+=======
+blurry lines
+trippy lines
+lines all night
+>>>>>>> parent of c29d45a... deleted lines.txt
